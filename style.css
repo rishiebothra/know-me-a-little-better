@@ -1,0 +1,309 @@
+body {
+    font-family: 'Muli', cursive;
+}
+
+h2{
+    font-family: 'Racing Sans One', cursive;
+    font-weight: lighter;
+    font-size: 250%;
+    padding: 40px;
+    }
+
+
+.home1{
+  text-align: center;
+  background: #E3F6F5;
+  padding: 80px 0 2px 0;
+}
+
+.nametitle{
+  color: #272343;
+  padding-bottom: 100px;
+}
+
+.home1h1{
+  font-size:500%;
+}
+
+.home1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.home1h2{
+      font-family: 'Muli', cursive;
+      font-size: 200%;
+      padding:0;
+  }
+
+.cloud-img{
+  padding-bottom:40px;
+  width: 40%;
+}
+
+.divider{
+  background-color: #E3F6F5;
+}
+hr{
+  width: 5%;
+  border-style: dotted;
+  color: #BAE8E8;
+  border-bottom:none;
+  border-left: none;
+  border-right:none;
+  border-width: 0.3rem;
+  margin: 0 auto;
+}
+
+.home2{
+  text-align: center;
+  background-color: #E3F6F5;
+}
+
+.myimage {
+    padding-top:80px;
+    padding-bottom:40px;
+    width: 15%;
+    min-width:150px;
+  }
+
+.home2h4 {
+  width: 55%;
+  font-family: 'Muli', cursive;
+  color: #272343;
+  margin: 0 auto;
+}
+
+.home2h5 {
+  width: 55%;
+  font-family: 'Muli', cursive;
+  color: #272343;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+/*.badges {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  padding-bottom: 60px;
+  }*/
+
+.awsbadge{
+  width: 10%;
+  min-width: 100px;
+}
+
+.b3{
+ border-radius: 100%;
+ width:10%;
+ min-width: 100px;
+}
+
+.carousel-item {
+padding-bottom: 60px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  opacity: 1000;
+  width:45%;
+}
+
+.carousel-indicators li{
+  background-color: #272343;
+}
+
+.skills {
+    background:#272343 ;
+    color:#E3F6F5;
+}
+
+.card-deck{
+  padding: 0  40px 40px;
+}
+
+.card{
+  background:#272343;
+  color:#E3F6F5;
+
+}
+
+.navbar{
+  background-color: #272343;
+}
+
+.exbt{
+  color:#E3F6F5;
+  border-color: #BAE8E8;
+  background-color:#272343;
+}
+.btn-outline-success{
+  color:#E3F6F5;
+  border-color: #BAE8E8;
+}
+
+.btn-outline-success: hover{
+  color:#E3F6F5;
+  border-color: #BAE8E8;
+}
+
+.certification{
+  background-color: #E3F6F5;
+  color: #272343;
+
+}
+
+.certlist{
+  padding: 0 40px 40px;
+}
+
+.certlist a{
+  color: #272343;
+  text-decoration: underline;
+}
+
+.certlist a:hover{
+  color: #BAE8E8;
+}
+.certlist h5{
+  padding-bottom: 10px;
+}
+
+.experience{
+  background:#272343;
+  color:#E3F6F5;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
+
+.exph2{
+  padding-bottom: 20px;
+}
+.mb-0{
+  padding: 0;
+  font-family: 'Muli', cursive;
+}
+
+.card-header h2{
+  padding-bottom: 0;
+  text-decoration: underline;
+}
+
+.card-header{
+  padding: 12px 40px;
+}
+
+.card{
+  border: 1px solid rgba(0,0,0,0);
+}
+
+.card-body{
+  padding: 20px 40px;
+}
+
+.colpad{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.projects{
+  background-color: #E3F6F5;
+  color: #272343;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.projects .card{
+  background-color: #E3F6F5;
+  color: #272343;
+}
+
+.prbt{
+  color:#272343;
+
+}
+
+.projecth2{
+  padding-bottom: 20px;
+}
+
+.education{
+  background:#272343;
+  color:#E3F6F5;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 40px;
+}
+
+.eduh2{
+  padding-bottom: 20px;
+}
+.education .row{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.edupad{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0px;
+}
+
+.rowpad{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.cform{
+  width:35%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contactme{
+  text-align: center;
+  background-color: #E3F6F5;
+  color: #272343;
+}
+
+.touchh2{
+  padding-bottom: 20px;
+}
+
+.msg{
+  position:relative;
+  text-align: left;
+}
+
+.conel{
+  margin-bottom: 10px;
+}
+
+.submit{
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-info a{
+    padding: 10px;
+    display: inline-block;
+    color: #272343;
+}
+
+.contact-info a:hover{
+  color:#BAE8E8;
+}
+.contact-info{
+  text-align: center;
+  background-color: #E3F6F5;
+  color: #272343;
+  padding-top: 40px;
+}
+
+.contact-info p{
+  margin:0;
+  padding-bottom:40px;
+}
