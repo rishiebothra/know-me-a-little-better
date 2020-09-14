@@ -130,7 +130,6 @@ padding-bottom: 60px;
 
 .navbar{
   background-color: #272343;
-  position: fixed;  
 }
 
 .exbt{
@@ -307,4 +306,8 @@ padding-bottom: 60px;
 .contact-info p{
   margin:0;
   padding-bottom:40px;
+}
+
+#navbar{
+    position: fixed;  
 }
