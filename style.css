@@ -309,5 +309,6 @@ padding-bottom: 60px;
 }
 
 #navbar{
-    position: fixed;  
+    position: fixed;
+    top: 0;
 }
